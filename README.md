@@ -1,2 +1,2 @@
-# GC-Case-Roller-Splat-Clone
+# Roller-Splat-Clone
 ![](rollersplatclone.gif)
